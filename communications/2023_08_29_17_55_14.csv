@@ -1,7 +1,0 @@
-Speaker,Content
-You,Hello
-LLM,Hi there! How can I help you today?
-You,Which chapter has ggplot2 details?
-LLM,"The chapter that provides details about ggplot2 is called ""Visualize"" in the book."
-You,Which chapter can I use for 
-LLM,"You can find details about ggplot2 in the ""Visualize"" chapter."
