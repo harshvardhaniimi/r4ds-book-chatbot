@@ -30,3 +30,5 @@ We're currently using the "R For Data Science 2E" book as the training material.
 - **CSV Archives**: All conversations are saved in a CSV file, with a timestamp for easy retrieval.
 
 So go ahead, give it a spin and let the chat begin! 🎉
+
+![Alt text](ss1.png)
