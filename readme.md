@@ -6,6 +6,8 @@ This is a super-simple-but-effective chatbot based on the concept of information
 
 This chatbot loads up files from a `documents` folder. You can toss in text files, doc files, PDFs, PPTs, and pretty much [anything textual](https://python.langchain.com/docs/integrations/document_loaders/unstructured_file.html). (You might need to install extra dependencies.) It then converts the contents into embeddings and stores them in a `txt_docsearch` folder for quick and easy use.
 
+See [🦣 Fine-tuning Large Language Models](https://hvsc1708.substack.com/p/fine-tuning-large-language-models) to understand how fine-tuning works. Also, [🔐 Private ChatGPT]() for specifically this usecase.
+
 ### Training Data 📚
 
 We're currently using the "R For Data Science 2E" book as the training material. But the beauty of it is, you can plug in any text material you'd like!
